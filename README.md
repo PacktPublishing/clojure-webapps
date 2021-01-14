@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Building web applications with Clojure - code
 
 This repository contains source codes for the [Building web applications with Clojure](http://www.packtpub.com/building-web-applications-with-clojure/video) screencast, published
